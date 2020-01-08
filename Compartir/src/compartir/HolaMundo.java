@@ -10,8 +10,10 @@ package compartir;
  * @author Admin
  */
 public class HolaMundo {
-    public static void main(String [] args){
-System.out.println("8 enero");
-System.out.println("ROJO");
-}
+
+    public static void main(String[] args) {
+        System.out.println("8 enero");
+        System.out.println("ROJO");
+        System.out.println("VERDE");
+    }
 }
