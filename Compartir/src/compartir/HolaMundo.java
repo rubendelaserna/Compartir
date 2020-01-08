@@ -15,5 +15,6 @@ public class HolaMundo {
         System.out.println("8 enero");
         System.out.println("ROJO");
         System.out.println("VERDE");
+        System.out.println("AMARILLO");
     }
 }
