@@ -19,5 +19,6 @@ public class HolaMundo {
         System.out.println("BLANCO");
         System.out.println("NEGRO");
         System.out.println("MORADO");
+        System.out.println("ROSA");
     }
 }
